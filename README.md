@@ -34,28 +34,18 @@
 ![Static Badge](https://img.shields.io/badge/2025.1.1-%20?style=for-the-badge&logo=androidstudio&logoColor=%233ddc84&label=android%20studio&labelColor=%23000000&color=%233ddc84) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=googlecolab&logoColor=%23F9AB00&label=GOOGLECOLABORATORY&labelColor=%23000000&color=%23F9AB00) <br>
 
-
-
-
 - FRAMEWORK <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=fastapi&logoColor=%23009688&label=fastapi&labelColor=%23000000&color=%23009688) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=flask&logoColor=%233BABC3&label=flask&labelColor=%23000000&color=%233BABC3) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=react&logoColor=%2361DAFB&label=react&labelColor=%23000000&color=%2361DAFB) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=grpc&logoColor=%2345c1c0&label=grpc&labelColor=%23000000&color=%2345c1c0) <br>
 
-
-
-
 - LANGUAGE <br>
 ![Static Badge](https://img.shields.io/badge/3.13.0-%20?style=for-the-badge&logo=python&logoColor=%233776AB&label=python&labelColor=%23000000&color=%233776AB) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=typescript&logoColor=%233178C6&label=typescript&labelColor=%23000000&color=%233178C6) <br>
 
-
 - ENVIRONMENT <br>
 ![Static Badge](https://img.shields.io/badge/20.15.0-%20?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&label=nodedotjs&labelColor=%23000000&color=%235FA04E) <br>
-
-
-
 
 - PLATFORM <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=roboflow&logoColor=%236706CE&label=roboflow&labelColor=%23000000&color=%236706CE&link=https%3A%2F%2Froboflow.com) <br>
@@ -65,14 +55,5 @@
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=expo&logoColor=%231C2024&label=expo&labelColor=%23ffffff&color=%231C2024) <br>
 ![Static Badge](https://img.shields.io/badge/20.0.0.0-%20?style=for-the-badge&logo=openjdk&logoColor=%233a75b0&label=JDK%20java&labelColor=%23000000&color=%233a75b0) <br>
 
-
-
-
-
-
-
-
-
 - DATABASE <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=mongodb&logoColor=%2347A248&label=mongodb&labelColor=%23000000&color=%2347A248) <br>
-
