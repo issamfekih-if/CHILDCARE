@@ -32,7 +32,7 @@
 - IDE <br>
 ![Static Badge](https://img.shields.io/badge/1.90.2-%20?style=for-the-badge&logoColor=%2322a5f1&label=Visual%20Studio%20Code&labelColor=%23000000&color=%2322a5f1) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=googlecolab&logoColor=%23F9AB00&label=GOOGLECOLABORATORY&labelColor=%23000000&color=%23F9AB00) <br>
-
+![Static Badge](https://img.shields.io/badge/2025.1.1-%20?style=for-the-badge&logo=androidstudio&logoColor=%233ddc84&label=android%20studio&labelColor=%23000000&color=%233ddc84) <br>
 
 
 
