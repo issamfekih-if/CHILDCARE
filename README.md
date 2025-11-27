@@ -43,6 +43,7 @@
 ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Froboflow.com-%20?style=for-the-badge&logo=roboflow&logoColor=%236706CE&label=roboflow&labelColor=%23000000&color=%236706CE) <br>
 
 
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=roboflow&logoColor=%236706CE&label=roboflow&labelColor=%23000000&color=%236706CE&link=https%3A%2F%2Froboflow.com)
 
 
 
