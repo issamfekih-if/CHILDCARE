@@ -45,6 +45,7 @@
 
 
 - LANGUAGE <br>
+![Static Badge](https://img.shields.io/badge/3.13.0-%20?style=for-the-badge&logo=python&logoColor=%233776AB&label=python&labelColor=%23000000&color=%233776AB) <br>
 
 
 
