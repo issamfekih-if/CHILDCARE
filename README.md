@@ -42,9 +42,7 @@
 
 - FRAMEWORK <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=fastapi&logoColor=%23009688&label=fastapi&labelColor=%23000000&color=%23009688) <br>
-
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=flask&logoColor=%233BABC3&label=flask&labelColor=%23000000&color=%233BABC3) <br>
-
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=react&logoColor=%2361DAFB&label=react&labelColor=%23000000&color=%2361DAFB) <br>
 
 
