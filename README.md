@@ -31,19 +31,33 @@
 
 - IDE <br>
 
+
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=googlecolab&logoColor=%23F9AB00&label=GOOGLECOLABORATORY&labelColor=%23000000&color=%23F9AB00) <br>
+
+
+
+
 - FRAMEWORK <br>
+
+
+
 
 
 - LANGUAGE <br>
 
 
-- TOOLS <br>
+
 
 - PLATFORM <br>
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Froboflow.com-%20?style=for-the-badge&logo=roboflow&logoColor=%236706CE&label=roboflow&labelColor=%23000000&color=%236706CE) <br>
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=roboflow&logoColor=%236706CE&label=roboflow&labelColor=%23000000&color=%236706CE&link=https%3A%2F%2Froboflow.com) <br>
+
+- TOOLS <br>
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=postman&logoColor=%23FF6C37&label=postman&labelColor=%23000000&color=%23FF6C37) <br>
 
 
-![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=roboflow&logoColor=%236706CE&label=roboflow&labelColor=%23000000&color=%236706CE&link=https%3A%2F%2Froboflow.com)
+
+
+
 
 
 
