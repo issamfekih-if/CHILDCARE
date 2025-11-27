@@ -1,4 +1,19 @@
 # CHILDCARE
+![Static Badge](https://img.shields.io/badge/1.0.0-%20?style=for-the-badge&label=version&labelColor=%23ff8000&color=%23ffffff) <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![alt text](1.png)
