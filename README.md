@@ -30,6 +30,9 @@
 ![alt text](14.png)
 
 - IDE <br>
+![Static Badge](https://img.shields.io/badge/1.90.2-%20?style=for-the-badge&logoColor=%2322a5f1&label=Visual%20Studio%20Code&labelColor=%23000000&color=%2322a5f1) <br>
+
+
 
 
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=googlecolab&logoColor=%23F9AB00&label=GOOGLECOLABORATORY&labelColor=%23000000&color=%23F9AB00) <br>
@@ -38,7 +41,11 @@
 
 
 - FRAMEWORK <br>
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=fastapi&logoColor=%23009688&label=fastapi&labelColor=%23000000&color=%23009688) <br>
 
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=flask&logoColor=%233BABC3&label=flask&labelColor=%23000000&color=%233BABC3) <br>
+
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=react&logoColor=%2361DAFB&label=react&labelColor=%23000000&color=%2361DAFB) <br>
 
 
 
