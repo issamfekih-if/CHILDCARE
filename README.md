@@ -51,9 +51,10 @@
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=roboflow&logoColor=%236706CE&label=roboflow&labelColor=%23000000&color=%236706CE&link=https%3A%2F%2Froboflow.com) <br>
 
 - TOOLS <br>
-![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=postman&logoColor=%23FF6C37&label=postman&labelColor=%23000000&color=%23FF6C37) <br>
-![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=expo&logoColor=%231C2024&label=expo&labelColor=%23ffffff&color=%231C2024) <br>
 ![Static Badge](https://img.shields.io/badge/20.0.0.0-%20?style=for-the-badge&logo=openjdk&logoColor=%233a75b0&label=JDK%20java&labelColor=%23000000&color=%233a75b0) <br>
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=expo&logoColor=%231C2024&label=expo&labelColor=%23ffffff&color=%231C2024) <br>
+![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=postman&logoColor=%23FF6C37&label=postman&labelColor=%23000000&color=%23FF6C37) <br>
+
 
 - DATABASE <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=mongodb&logoColor=%2347A248&label=mongodb&labelColor=%23000000&color=%2347A248) <br>
