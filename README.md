@@ -15,56 +15,56 @@
 
 <img src="1.png" alt="alt text" width="250">
 
-### User
+### Mobile / Web Application
 1. Launch interface : <br>
 
 ![alt text](2.png)
 
-2. User SignIn : <br>
+2. Parent SignIn : <br>
 
 ![alt text](3.png)
 
-3. Admin SignIn : <br>
+3. Childcare staff SignIn : <br>
 
 ![alt text](4.png)
 
-
+3. Childcare staff add children by parent : <br>
 
 ![alt text](5.png)
 
-
+4. 'Cry' emotion detection : <br>
 
 ![alt text](6.png)
 
-
+5. 'Happy' emotion detection : <br>
 
 ![alt text](7.png)
 
-
+6. 'Neutral' emotion detection : <br>
 
 ![alt text](8.png)
 
-
+7. 'Sleep' emotion detection : <br>
 
 ![alt text](9.png)
 
-
+8. Notification about the child’s current emotion for the parent : <br>
 
 ![alt text](10.png)
 
-
+9. Notification about the child’s current emotion for the Childcare staff : <br>
 
 ![alt text](11.png)
 
-
+10. Statistics of the evolution of the baby’s emotional state : <br>
 
 ![alt text](12.png)
 
-
+11. Parents can send messages to the childcare : <br>
 
 ![alt text](13.png)
 
-
+12. Childcare staff can reply to parents messages : <br>
 
 ![alt text](14.png)
 
