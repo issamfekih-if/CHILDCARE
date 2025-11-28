@@ -15,18 +15,55 @@
 
 <img src="1.png" alt="alt text" width="250">
 
+### User
 ![alt text](2.png)
+
+
+
 ![alt text](3.png)
+
+
+
 ![alt text](4.png)
+
+
+
 ![alt text](5.png)
+
+
+
 ![alt text](6.png)
+
+
+
 ![alt text](7.png)
+
+
+
 ![alt text](8.png)
+
+
+
 ![alt text](9.png)
+
+
+
 ![alt text](10.png)
+
+
+
 ![alt text](11.png)
+
+
+
 ![alt text](12.png)
+
+
+
 ![alt text](13.png)
+
+
+
 ![alt text](14.png)
 
 - IDES <br>
@@ -57,3 +94,25 @@
 
 - DATABASE <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=mongodb&logoColor=%2347A248&label=mongodb&labelColor=%23000000&color=%2347A248) <br>
+
+### How to use
+```
+npm install -g @angular/cli@18 --force
+ng new _
+ng g c _
+ng g s _
+ng s -o
+``` 
+
+```
+pip install flask
+python app.py
+```
+
+```
+docker login
+docker-compose build
+docker-compose push
+docker-compose up
+docker-compose down
+```
