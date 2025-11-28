@@ -52,7 +52,7 @@
 
 ![alt text](10.png)
 
-9. Notification about the child’s current emotion for the Childcare staff : <br>
+9. Notification about the child’s current emotion for the childcare staff : <br>
 
 ![alt text](11.png)
 
