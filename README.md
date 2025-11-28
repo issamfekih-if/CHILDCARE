@@ -4,7 +4,7 @@
 - Description <br>
 > Cross-platform application for real time baby emotion detection. <br><br>
 The objective of this project is to implement a cross-platform application for a computer vision system that allows parents to follow their baby’s behavior, expressions, and overall state in real time through the camera of a mobile phone or a computer using an AI model. <br><br>
-Our application aims to meet the needs of clients (such as childcare centers) by helping to anticipate necessary actions and detect the baby’s emotions, in order to understand, analyze, and manage their state even in the parents absence.
+Our application aims to meet the needs of clients (such as childcare centers) by helping to anticipate necessary actions and detect the baby’s emotions, enabling them to understand, analyze, and manage their state even in the parents absence.
 
 ### MICROSERVICES ARCHITECTURE
 
