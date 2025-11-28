@@ -4,13 +4,6 @@
 - Description <br>
 > Cross-platform application for real time baby emotion detection. <br><br>
 
-
-
-
-
-
-
-
 ### MICROSERVICES ARCHITECTURE
 
 <img src="1.png" alt="alt text" width="250">
@@ -99,16 +92,16 @@
 
 ### How to use
 ```
-
-
+npx create-expo-app _
+npm run android
 ``` 
 
 ```
-
-
+python build.py
+python server.py
 ```
 
 ```
-
-
+pip install flask
+python detection.py
 ```
