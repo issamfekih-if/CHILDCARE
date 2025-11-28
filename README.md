@@ -16,13 +16,14 @@
 <img src="1.png" alt="alt text" width="250">
 
 ### User
+1. Launch interface : <br>
 ![alt text](2.png)
 
-
+2. User SignIn : <br>
 
 ![alt text](3.png)
 
-
+3. Admin SignIn : <br>
 
 ![alt text](4.png)
 
@@ -97,22 +98,16 @@
 
 ### How to use
 ```
-npm install -g @angular/cli@18 --force
-ng new _
-ng g c _
-ng g s _
-ng s -o
+
+
 ``` 
 
 ```
-pip install flask
-python app.py
+
+
 ```
 
 ```
-docker login
-docker-compose build
-docker-compose push
-docker-compose up
-docker-compose down
+
+
 ```
