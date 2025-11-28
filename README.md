@@ -29,18 +29,18 @@
 ![alt text](13.png)
 ![alt text](14.png)
 
-- IDE <br>
+- IDES <br>
 ![Static Badge](https://img.shields.io/badge/1.90.2-%20?style=for-the-badge&logoColor=%2322a5f1&label=Visual%20Studio%20Code&labelColor=%23000000&color=%2322a5f1) <br>
 ![Static Badge](https://img.shields.io/badge/2025.1.1-%20?style=for-the-badge&logo=androidstudio&logoColor=%233ddc84&label=android%20studio&labelColor=%23000000&color=%233ddc84) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=googlecolab&logoColor=%23F9AB00&label=GOOGLECOLABORATORY&labelColor=%23000000&color=%23F9AB00) <br>
 
-- FRAMEWORK <br>
+- FRAMEWORKS <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=fastapi&logoColor=%23009688&label=fastapi&labelColor=%23000000&color=%23009688) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=flask&logoColor=%233BABC3&label=flask&labelColor=%23000000&color=%233BABC3) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=react&logoColor=%2361DAFB&label=react&labelColor=%23000000&color=%2361DAFB) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=grpc&logoColor=%2345c1c0&label=grpc&labelColor=%23000000&color=%2345c1c0) <br>
 
-- LANGUAGE <br>
+- LANGUAGES <br>
 ![Static Badge](https://img.shields.io/badge/3.13.0-%20?style=for-the-badge&logo=python&logoColor=%233776AB&label=python&labelColor=%23000000&color=%233776AB) <br>
 ![Static Badge](https://img.shields.io/badge/-%20?style=for-the-badge&logo=typescript&logoColor=%233178C6&label=typescript&labelColor=%23000000&color=%233178C6) <br>
 
